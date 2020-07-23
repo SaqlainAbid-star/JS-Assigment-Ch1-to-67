@@ -1,0 +1,26 @@
+#more {display: none;}
+
+.img{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.bigImage{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 500px;
+    top: 50px;
+    display: none;
+}
+
+.inline{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 500px;
+    top: 50px;
+    display: block;
+
+}
